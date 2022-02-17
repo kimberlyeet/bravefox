@@ -82,3 +82,6 @@ user_pref("browser.toolbars.bookmarks.visibility", "always");
 
 //urlbarcustonmization
 user_pref("browser.uiCustomization.state", "{{"placements":{"widget-overflow-fixed-list":[],"nav-bar":["back-button","forward-button","stop-reload-button","urlbar-container","save-to-pocket-button","library-button","downloads-button","ublock0_raymondhill_net-browser-action","addon_darkreader_org-browser-action"],"toolbar-menubar":["menubar-items"],"TabsToolbar":["tabbrowser-tabs","new-tab-button","alltabs-button"],"PersonalToolbar":["personal-bookmarks"]},"seen":["addon_darkreader_org-browser-action","jid1-bofifl9vbdl2zq_jetpack-browser-action","sponsorblocker_ajay_app-browser-action","ublock0_raymondhill_net-browser-action","_74145f27-f039-47ce-a470-a662b129930a_-browser-action","developer-button","_b7f9d2cd-d772-4302-8c3f-eb941af36f76_-browser-action","amptra_keepa_com-browser-action","_e6fc2bbd-183e-4518-9ea5-04a8a913ab00_-browser-action"],"dirtyAreaCache":["nav-bar","toolbar-menubar","TabsToolbar","PersonalToolbar"],"currentVersion":17,"newElementCount":12}");
+
+//bugfix
+user_pref("browser.tabs.drawInTitlebar", true);
